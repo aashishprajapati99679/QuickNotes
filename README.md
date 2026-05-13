@@ -2,7 +2,7 @@
 
 QuickNotes is a modern and responsive notes management application built using React, Redux Toolkit, React Router, and Tailwind CSS. The application allows users to create, update, delete, search, view, and copy notes with data persistence using Local Storage.
 
-##Live Demo : https://quick-notes-tan.vercel.app/
+#Live Demo : https://quick-notes-tan.vercel.app/
 
 ## Features
 
