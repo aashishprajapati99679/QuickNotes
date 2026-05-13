@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+:root {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    max-width: 2024px;
+    background-color: #C2B280;
+}
+
+button {
+    border: 1px solid black;
+    border-radius: 10px;
+}
